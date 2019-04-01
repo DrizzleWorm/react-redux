@@ -1,0 +1,8 @@
+.clickcounter-btn {
+  display: inline-block;
+  margin: 0 10px 10px;
+}
+
+.clickcounter-count {
+  display: inline-block;
+}
